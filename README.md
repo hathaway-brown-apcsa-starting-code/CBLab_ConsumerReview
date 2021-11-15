@@ -1,5 +1,5 @@
 # CBLab_ConsumerReview
-Starting code for the Consumer Review lab from the College Board\
+This is an in-between stage of the ConsumerReview lab.\
 \
 Download all of these files (zipped is fine) to the same folder.  Then click on package.bluej to open.
 \
